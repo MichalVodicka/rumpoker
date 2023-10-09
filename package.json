@@ -34,7 +34,7 @@
     "@tsconfig/svelte": "5.0.2",
     "autoprefixer": "10.4.16",
     "license-checker": "^25.0.1",
-    "postcss": "8.4.29",
+    "postcss": "8.4.31",
     "postcss-load-config": "4.0.1",
     "sass": "1.68.0",
     "sassdoc": "2.7.4",
