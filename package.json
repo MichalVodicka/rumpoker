@@ -18,7 +18,7 @@
   "license": "Closed",
   "type": "module",
   "devDependencies": {
-    "@roxi/routify": "3.0.0-next.184",
+    "@roxi/routify": "3.0.0-next.189",
     "@sveltejs/vite-plugin-svelte": "2.4.6",
     "@storybook/addon-essentials": "^7.4.1",
     "@storybook/addon-interactions": "^7.4.1",
