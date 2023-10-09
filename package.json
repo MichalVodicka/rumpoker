@@ -38,7 +38,7 @@
     "license-checker": "^25.0.1",
     "postcss": "8.4.29",
     "postcss-load-config": "4.0.1",
-    "sass": "1.68.0",
+    "sass": "1.69.0",
     "sassdoc": "2.7.4",
     "spank": "^2.0.0",
     "storybook": "^7.4.1",
