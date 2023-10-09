@@ -18,7 +18,7 @@
   "license": "Closed",
   "type": "module",
   "devDependencies": {
-    "@roxi/routify": "3.0.0-next.184",
+    "@roxi/routify": "3.0.0-next.189",
     "@sveltejs/vite-plugin-svelte": "2.4.6",
     "@storybook/addon-essentials": "^7.4.1",
     "@storybook/addon-interactions": "^7.4.1",
@@ -36,7 +36,7 @@
     "license-checker": "^25.0.1",
     "postcss": "8.4.31",
     "postcss-load-config": "4.0.1",
-    "sass": "1.68.0",
+    "sass": "1.69.0",
     "sassdoc": "2.7.4",
     "spank": "^2.0.0",
     "storybook": "^7.4.1",
