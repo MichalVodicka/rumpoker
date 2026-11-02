@@ -31,7 +31,7 @@
     "@storybook/svelte-vite": "^7.4.1",
     "@storybook/testing-library": "^0.2.0",
     "@testing-library/svelte": "^4.0.3",
-    "@tsconfig/svelte": "5.0.2",
+    "@tsconfig/svelte": "5.0.8",
     "autoprefixer": "10.4.16",
     "license-checker": "^25.0.1",
     "postcss": "8.4.31",
